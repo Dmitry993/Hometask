@@ -10,6 +10,7 @@ namespace CheckPhoto
     {
         static void Main(string[] args)
         {
+            Check.CheckDoc();
         }
     }
 }
